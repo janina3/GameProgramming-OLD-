@@ -14,11 +14,11 @@
 		<string>https://github.com/janina3/GameProgramming.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Homework/Final/NYUCodebase.xcodeproj</string>
+	<string>Final/NYUCodebase.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>59CB952327165253671227756EDAF583BA4CD149</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/janina3/GameProgramming.git</string>
